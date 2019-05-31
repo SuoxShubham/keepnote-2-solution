@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KeepNote-Step2-Boilerplate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>KeepNote-Step2-Boilerplate</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="KeepNote-Step2-Boilerplate.war">
+      <element id="artifact" artifact-name="KeepNote-Step2-Boilerplate:war exploded" />
+    </root>
+  </artifact>
+</component>
